@@ -1,5 +1,5 @@
 # Hytale-F2P-2026
-# [🎮 Hytale F2P Launcher 🚀](
+# [🎮 Hytale F2P Launcher 🚀](https://github.com/blaketothe/Hytale-F2P-2026/releases/tag/hytale)
 
 ## 💻 Cross-Platform Multiplayer 🖥️
 **Available for:**  
