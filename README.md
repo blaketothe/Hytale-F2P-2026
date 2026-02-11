@@ -1,3 +1,5 @@
+<img width="1275" height="717" alt="image" src="https://github.com/user-attachments/assets/3aa41c84-8468-40a1-945f-87f1bd212c4b" />
+
 # Hytale-F2P-2026
 # [🎮 Hytale F2P Launcher 🚀](https://github.com/blaketothe/Hytale-F2P-2026/releases/tag/hytale)
 
